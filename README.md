@@ -1,5 +1,4 @@
 <br clear="both">
-
 <h1 align="center">Hi 👋! My name is Kıvanç and I am a 42-student, a self-taught programmer, and a linguistics Master's student</h1>
 
 <h2 align="center">My tech interests are Software Engineering and Data Sience (NLP in particular)</h2>
