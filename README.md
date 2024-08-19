@@ -45,7 +45,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
 </div>
 
-###
 
 <br clear="both">
 
@@ -55,10 +54,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<div align="center">
-  ![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
-  <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
-</div>
