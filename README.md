@@ -94,9 +94,8 @@
 ###
 
 <br clear="both">
-
 <div align="center">
-<a href="https://app.daily.dev/kivancgordu"><img src="https://api.daily.dev/devcards/v2/PJ34H7bM8gMxFDFzDM8gB.png?r=0wx&type=wide" width="652" alt="Kıvanç Gördü's Dev Card"/></a>
+<a href="https://app.daily.dev/kivanc57"><img src="https://api.daily.dev/devcards/v2/PJ34H7bM8gMxFDFzDM8gB.png?type=wide&r=z8b" width="652" alt="Kıvanç Gördü's Dev Card"/></a>
 </div>
 
 ###
