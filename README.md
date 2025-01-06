@@ -96,13 +96,14 @@
 <br clear="both">
 
 <div align="center">
-<a href="https://app.daily.dev/kivanc57"><img src="https://api.daily.dev/devcards/v2/PJ34H7bM8gMxFDFzDM8gB.png?type=wide&r=z8b" width="652" alt="Kıvanç Gördü's Dev Card"/></a>
+  <a href="https://app.daily.dev/kivanc57"><img src="https://api.daily.dev/devcards/v2/PJ34H7bM8gMxFDFzDM8gB.png?type=wide&r=z8b" width="652" alt="Kıvanç Gördü's Dev Card"/></a>
 </div>
 
 ###
 
 <br aling="center">
 
-[![neo4j_pro](https://miro.medium.com/v2/resize:fit:512/format:webp/1*aMaOg-3yURIYp2fAmBOYrg.png)](https://graphacademy.neo4j.com/c/ed8b933a-4b60-4858-a260-7337c4b8b720/)
-[![neo4j_data](https://miro.medium.com/v2/resize:fit:512/format:webp/1*5MbJKObdXa86D8BI8Vvn7A.png)](https://graphacademy.neo4j.com/c/60cf820c-d0f2-418c-b9ac-0fd30d5e124d/)
-
+<div align="center">
+  <a href="https://graphacademy.neo4j.com/c/ed8b933a-4b60-4858-a260-7337c4b8b720/"><img src="https://miro.medium.com/v2/resize:fit:512/format:webp/1*aMaOg-3yURIYp2fAmBOYrg.png" alt="Neo4j Pro"></a>
+  <a href="https://graphacademy.neo4j.com/c/60cf820c-d0f2-418c-b9ac-0fd30d5e124d/"><img src="https://miro.medium.com/v2/resize:fit:512/format:webp/1*5MbJKObdXa86D8BI8Vvn7A.png" alt="Neo4j Data Science"></a>
+</div>
