@@ -83,8 +83,6 @@
 
 ###
 
-###
-
 <br clear="both">
 
 <div align="center">
@@ -101,9 +99,21 @@
 
 ###
 
-<br aling="center">
+<br clear="both">
 
 <div align="center">
   <a href="https://graphacademy.neo4j.com/c/ed8b933a-4b60-4858-a260-7337c4b8b720/"><img src="https://miro.medium.com/v2/resize:fit:512/format:webp/1*aMaOg-3yURIYp2fAmBOYrg.png" alt="Neo4j Pro"></a>
   <a href="https://graphacademy.neo4j.com/c/60cf820c-d0f2-418c-b9ac-0fd30d5e124d/"><img src="https://miro.medium.com/v2/resize:fit:512/format:webp/1*5MbJKObdXa86D8BI8Vvn7A.png" alt="Neo4j Data Science"></a>
 </div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <a href="https://spotify-recently-played-readme.vercel.app/api?user=e43rjw4tazne1t5623efjemhu">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=e43rjw4tazne1t5623efjemhu&unique=true" alt="Spotify Recently Played">
+  </a>
+</div>
+
+###
