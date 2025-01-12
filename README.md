@@ -89,6 +89,7 @@
   <a href="https://graphacademy.neo4j.com/c/ed8b933a-4b60-4858-a260-7337c4b8b720/"><img src="/images/neo4j_pro.png" alt="Neo4j Pro"></a>
   <a href="https://graphacademy.neo4j.com/c/60cf820c-d0f2-418c-b9ac-0fd30d5e124d/"><img src="/images/neo4j_data.png" alt="Neo4j Data Science"></a>
   <a href="https://www.credly.com/badges/a8717435-6f05-4231-b467-071fb9d55353/public_url"><img src="/images/mongodb_ai_build.png" alt="MongoDB Building AI"></a>
+  <a href="https://www.credly.com/badges/d859bf61-da6f-4c04-98b2-cdebba528744/public_url"><img src="/images/mongodb_ai_deploy_evaluate.png" alt="MongoDB Deploy Evaluate AI"></a>
 
 </div>
 
