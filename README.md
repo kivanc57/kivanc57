@@ -1,7 +1,7 @@
 <br clear="both">
 <h1 align="center">Hi 👋! My name is Kıvanç and I am a 42-student, a programmer, and a linguistics Master's student</h1>
 
-<h2 align="center">My primarily focus is Data Sience, NLP in particular</h2>
+<h2 align="center">My primarily focus is Data Sience, NLP in particular and Generative AI</h2>
 
 ###
 
