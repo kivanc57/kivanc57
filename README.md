@@ -1,7 +1,7 @@
 <br clear="both">
 <h1 align="center">Hi 👋! My name is Kıvanç and I am a 42-student, a programmer, and a linguistics Master's student</h1>
 
-<h2 align="center">My tech interests are Data Sience (NLP in particular) and DevOps practices</h2>
+<h2 align="center">My primarily focus is Data Sience, NLP in particular</h2>
 
 ###
 
@@ -50,22 +50,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/travis/travis-plain.svg" height="30" alt="travis logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="30" alt="circleci logo />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="30" alt="jenkins logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="30" alt="argocd logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="30" alt="ansible logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="30" alt="terraform logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="30" alt="prometheus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="30" alt="grafana logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
@@ -106,16 +90,6 @@
   <a href="https://graphacademy.neo4j.com/c/60cf820c-d0f2-418c-b9ac-0fd30d5e124d/"><img src="https://miro.medium.com/v2/resize:fit:512/format:webp/1*5MbJKObdXa86D8BI8Vvn7A.png" alt="Neo4j Data Science"></a>
   <a href="https://www.credly.com/badges/a8717435-6f05-4231-b467-071fb9d55353/public_url"><img src="https://i.ibb.co/RCvRb6P/building-genai-applications-with-mongodb-1.png" alt="MongoDB Building AI"></a>
 
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <a href="https://spotify-recently-played-readme.vercel.app/api?user=e43rjw4tazne1t5623efjemhu">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=e43rjw4tazne1t5623efjemhu&unique=true" alt="Spotify Recently Played">
-  </a>
 </div>
 
 ###
