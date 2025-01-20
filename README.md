@@ -66,8 +66,11 @@
 <div align="center">
   <a href="https://graphacademy.neo4j.com/c/ed8b933a-4b60-4858-a260-7337c4b8b720/"><img src="/images/neo4j_pro.png" alt="Neo4j Pro" width="200" height="200"></a>
   <a href="https://graphacademy.neo4j.com/c/60cf820c-d0f2-418c-b9ac-0fd30d5e124d/"><img src="/images/neo4j_data.png" alt="Neo4j Data Science width="200" height="200""></a>
-  <a href="https://www.credly.com/badges/a8717435-6f05-4231-b467-071fb9d55353/public_url"><img src="/images/mongodb_ai_build.png" alt="MongoDB Building AI" width="200" height="200"></a>
+</div>
+<div align="center">
   <a href="https://www.credly.com/badges/d859bf61-da6f-4c04-98b2-cdebba528744/public_url"><img src="/images/mongodb_ai_deploy_evaluate.png" alt="MongoDB Deploy Evaluate AI" width="200" height="200"></a>
+  <a href="https://www.credly.com/badges/d7c2e02b-e4a3-4f32-9ef1-d8512de8c78e/public_url"><img src="/images/mongodb_associate_developer.png" alt="MongoDB Associate Developer" width="200" height="200"></a>
+  <a href="https://www.credly.com/badges/a8717435-6f05-4231-b467-071fb9d55353/public_url"><img src="/images/mongodb_ai_build.png" alt="MongoDB Building AI" width="200" height="200"></a>
 </div>
 
 ###
@@ -85,5 +88,13 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kivanc57&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 ###
