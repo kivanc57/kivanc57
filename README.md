@@ -5,6 +5,23 @@
 
 ###
 
+<br clear="both">
+<div align="center">
+  <a href="https://datastax.academy/badges/badge.php?hash=c053c18ac31950e1ce2ba5bb29482d380e801f5c/"><img src="/images/cassandra_intro.png" alt="Intro Cassandra" width="200" height="200"></a>
+</div>
+<div align="center">
+  <a href="https://graphacademy.neo4j.com/c/ed8b933a-4b60-4858-a260-7337c4b8b720/"><img src="/images/neo4j_pro.png" alt="Neo4j Pro" width="200" height="200"></a>
+  <a href="https://graphacademy.neo4j.com/c/60cf820c-d0f2-418c-b9ac-0fd30d5e124d/"><img src="/images/neo4j_data.png" alt="Neo4j Data Science width="200" height="200""></a>
+</div>
+<div align="center">
+  <a href="https://www.credly.com/badges/d859bf61-da6f-4c04-98b2-cdebba528744/public_url"><img src="/images/mongodb_ai_deploy_evaluate.png" alt="MongoDB Deploy Evaluate AI" width="200" height="200"></a>
+  <a href="https://www.credly.com/badges/d7c2e02b-e4a3-4f32-9ef1-d8512de8c78e/public_url"><img src="/images/mongodb_associate_developer.png" alt="MongoDB Associate Developer" width="200" height="200"></a>
+  <a href="https://www.credly.com/badges/a8717435-6f05-4231-b467-071fb9d55353/public_url"><img src="/images/mongodb_ai_build.png" alt="MongoDB Building AI" width="200" height="200"></a>
+</div>
+
+###
+
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/kivanc57/count.svg?"  />
 </div>
@@ -57,22 +74,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="40" alt="linux logo"  />
-</div>
-
-###
-
-<br clear="both">
-<div align="center">
-  <a href="https://datastax.academy/badges/badge.php?hash=c053c18ac31950e1ce2ba5bb29482d380e801f5c/"><img src="/images/cassandra_intro.png" alt="Intro Cassandra" width="200" height="200"></a>
-</div>
-<div align="center">
-  <a href="https://graphacademy.neo4j.com/c/ed8b933a-4b60-4858-a260-7337c4b8b720/"><img src="/images/neo4j_pro.png" alt="Neo4j Pro" width="200" height="200"></a>
-  <a href="https://graphacademy.neo4j.com/c/60cf820c-d0f2-418c-b9ac-0fd30d5e124d/"><img src="/images/neo4j_data.png" alt="Neo4j Data Science width="200" height="200""></a>
-</div>
-<div align="center">
-  <a href="https://www.credly.com/badges/d859bf61-da6f-4c04-98b2-cdebba528744/public_url"><img src="/images/mongodb_ai_deploy_evaluate.png" alt="MongoDB Deploy Evaluate AI" width="200" height="200"></a>
-  <a href="https://www.credly.com/badges/d7c2e02b-e4a3-4f32-9ef1-d8512de8c78e/public_url"><img src="/images/mongodb_associate_developer.png" alt="MongoDB Associate Developer" width="200" height="200"></a>
-  <a href="https://www.credly.com/badges/a8717435-6f05-4231-b467-071fb9d55353/public_url"><img src="/images/mongodb_ai_build.png" alt="MongoDB Building AI" width="200" height="200"></a>
 </div>
 
 ###
