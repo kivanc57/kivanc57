@@ -39,6 +39,15 @@
 ###
 
 <br clear="both">
+<div align="center">
+  <a href="https://www.codewars.com/users/kivanc57/badges/large">
+    <img src="https://www.codewars.com/users/kivanc57/badges/large" alt="Codewars Badge">
+  </a>
+</div>
+
+###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kivanc57&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vision-friendly-dark&hide_border=false" height="200" alt="languages graph"  />
@@ -81,7 +90,7 @@
 <br clear="both">
 
 <div align="center">
-  <a href="https://app.daily.dev/kivanc57"><img src="https://api.daily.dev/devcards/v2/PJ34H7bM8gMxFDFzDM8gB.png?type=wide&r=z8b" width="652" alt="Kıvanç Gördü's Dev Card"/></a>
+  <a href="https://app.daily.dev/kivanc57"><img src="https://api.daily.dev/devcards/v2/PJ34H7bM8gMxFDFzDM8gB.png?type=wide&r=z8b" width="600" heigth=100 alt="Kıvanç Gördü's Dev Card"/></a>
 </div>
 
 ###
