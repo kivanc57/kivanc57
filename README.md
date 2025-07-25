@@ -1,4 +1,20 @@
-<h1 align="center">Hello there 👋<br>I am Kıvanç - linguistics Master's student, programmer, proud 42 student, polyglot, a martial arts enhusiast</h1>
+<h1 align="center">Hello there 👋<br>I am Kıvanç - linguistics Master's student, programmer, proud 42-student, polyglot, martial arts enhusiast</h1>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=F5276C&logoColor=white&labelColor=&style=for-the-badge" height="50" widht="50" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=F5B027&logoColor=white&labelColor=&style=for-the-badge" height="50" widht="50" alt="facebook logo"  />
+  <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=F54927&logoColor=white&labelColor=&style=for-the-badge" height="50" widht="50" alt="microsoft-outlook logo"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://www.codewars.com/users/kivanc57/badges/large" target="_blank">
+    <img src="https://www.codewars.com/users/kivanc57/badges/large" width="356" alt="Kıvanç Gördü's Codewars Badge"/>
+  </a>
+</div>
 
 ###
 
@@ -46,24 +62,10 @@
 
 ###
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=F5276C&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=F5B027&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
-  <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=F54927&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kivanc57&layout=donut-vertical&card_width=320&langs_count=8&theme=gruvbox_light&hide_border=false&order=2&hide=jupyter%20notebook" height="300" width="300" alt="languages graph"  />
+  <a href="https://app.daily.dev/kivanc57"><img src="https://api.daily.dev/devcards/v2/PJ34H7bM8gMxFDFzDM8gB.png?type=wide&r=25s" height="300" width="652" alt="Kıvanç Gördü's Dev Card"/></a>
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kivanc57&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=gruvbox_light&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kivanc57/kivanc57/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kivanc57/kivanc57/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kivanc57/kivanc57/output/pacman-contribution-graph.svg">
-</picture>
-
-###
