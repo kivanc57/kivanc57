@@ -63,9 +63,13 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kivanc57&layout=donut-vertical&card_width=320&langs_count=8&theme=gruvbox_light&hide_border=false&order=2&hide=jupyter%20notebook" height="300" width="300" alt="languages graph"  />
-  <a href="https://app.daily.dev/kivanc57"><img src="https://api.daily.dev/devcards/v2/PJ34H7bM8gMxFDFzDM8gB.png?type=wide&r=25s" height="300" width="580" alt="Kıvanç Gördü's Dev Card"/></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kivanc57&layout=donut&card_width=320&langs_count=8&theme=shades-of-purple&hide_border=false&order=2&hide=jupyter%20notebook" height="300" width="500" alt="languages graph"  />
 </div>
 
 ###
 
+<div align="center">
+  <a href="https://app.daily.dev/kivanc57"><img src="https://api.daily.dev/devcards/v2/PJ34H7bM8gMxFDFzDM8gB.png?type=wide&r=25s" height="300" width="500" alt="Kıvanç Gördü's Dev Card"/></a>
+</div>
+
+###
