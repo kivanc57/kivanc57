@@ -11,9 +11,15 @@
 ###
 
 <div align="center">
-  <a href="https://www.codewars.com/users/kivanc57/badges/large" target="_blank">
+  <a href="https://www.codewars.com/users/kivanc57">
     <img src="https://www.codewars.com/users/kivanc57/badges/large" width="356" alt="Kıvanç Gördü's Codewars Badge"/>
   </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://repository-images.githubusercontent.com/458803330/fd027c0e-dcbb-4127-8670-7dd92566b808", width="500" alt="I use Arch BTW">
 </div>
 
 ###
@@ -65,11 +71,3 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kivanc57&layout=donut&card_width=320&langs_count=8&theme=shades-of-purple&hide_border=false&order=2&hide=jupyter%20notebook" height="300" width="500" alt="languages graph"  />
 </div>
-
-###
-
-<div align="center">
-  <a href="https://app.daily.dev/kivanc57"><img src="https://api.daily.dev/devcards/v2/PJ34H7bM8gMxFDFzDM8gB.png?type=wide&r=25s" height="300" width="500" alt="Kıvanç Gördü's Dev Card"/></a>
-</div>
-
-###
