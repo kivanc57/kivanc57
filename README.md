@@ -59,5 +59,5 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kivanc57&layout=donut&card_width=320&langs_count=8&theme=shades-of-purple&hide_border=false&order=2&hide=jupyter%20notebook,css,lua,makefile" height="300" width="500" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kivanc57&layout=donut&card_width=320&langs_count=7&theme=shades-of-purple&hide_border=false&order=2&hide=jupyter%20notebook,css,lua,makefile" height="300" width="500" alt="languages graph"  />
 </div>
