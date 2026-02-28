@@ -13,14 +13,6 @@
 ###
 
 <div align="center">
-  <a href="https://www.codewars.com/users/kivanc57">
-    <img src="https://www.codewars.com/users/kivanc57/badges/large" width="356" alt="Kıvanç Gördü's Codewars Badge"/>
-  </a>
-</div>
-
-###
-
-<div align="center">
   <img src="https://repository-images.githubusercontent.com/458803330/fd027c0e-dcbb-4127-8670-7dd92566b808", width="500" alt="I use Arch BTW">
 </div>
 
